@@ -19,3 +19,10 @@
   <a href="https://www.linkedin.com/in/maria-eduarda-lucena-fernandes-82416234a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+
+ <div>
+   <a href="https://github.com/lucenaxsz">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucenaxsz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucenaxsz&layout=compact&langs_count=6&theme=tokyonight"/>
+</div>
