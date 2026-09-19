@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/maria-eduarda-lucena-fernandes-82416234a](https://www.linkedin.com/in/maria-eduarda-lucena-fernandes-82416234a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="www.linkedin.com/in/maria-eduarda-lucena-82416234a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:mmlucena07@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </p>
 
@@ -15,9 +15,9 @@
 ## 🚀 Sobre mim
 
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas na **USCS** (previsão: julho de 2027)
-- 💼 Experiência com **Excel, Power BI, Power Apps e SAP** no dia a dia de RH
-- 📈 Foco em **análise de dados**: dashboards, DAX, SQL e automações
-- 🧑‍💻 Também desenvolvo em Java, Python, JavaScript e web (HTML/CSS)
+- 💼 Experiência com **Power BI, Python, SQL, PHP, Power Automate, Power Apps e SAP** no dia a dia.
+- 📈 Foco em **análise de dados** e **automações**
+- 🧑‍💻 Também tenho conhecimentos em Java, JavaScript, HTML/CSS, MySQL, Pacote Office.
 - 🌱 Sempre aprendendo e buscando novos projetos
 
 ---
