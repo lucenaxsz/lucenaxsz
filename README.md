@@ -2,7 +2,7 @@
 
 <p align="center">
   Estudante de Análise e Desenvolvimento de Sistemas (USCS) 🎓<br>
-  Atuo em RH (Remuneração) e estou construindo minha carreira em <b>dados e tecnologia</b> 📊
+  Estou construindo minha carreira em <b>dados e tecnologia</b> 📊
 </p>
 
 <p align="center">
