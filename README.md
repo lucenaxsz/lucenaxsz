@@ -17,7 +17,7 @@
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas
 - 💼 Experiência com **Power BI, Python, SQL, PHP, Power Automate, Power Apps e SAP** no dia a dia.
 - 📈 Foco em **análise de dados** e **automações**
-- 🧑‍💻 Também tenho conhecimentos em Java, JavaScript, HTML/CSS, MySQL, Pacote Office.
+- 🧑‍💻 Também tenho conhecimentos em Java, JavaScript, HTML/CSS, MySQL, Pacote Office
 - 🌱 Sempre aprendendo e buscando novos projetos
 
 ---
